@@ -3,7 +3,7 @@ import photo from '../../assets/me.png';
 
 export default function Me() {
     return (
-        <div>
+        <div className='box'>
             <h1>About Me</h1>
             
             <p> Hello Page Viewer! My Name is Dylan Santiago and I'm a 23 year old aspiring Full Stack Developer.

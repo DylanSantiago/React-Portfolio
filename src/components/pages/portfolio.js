@@ -11,7 +11,7 @@ export default function Portfolio() {
     return (
         <div>
             <h1>My Portfolio</h1>
-            <section>
+            <section className='box'>
                 <h1>MERN Book Search</h1>
                     <a href="https://dylans-book-search-app.herokuapp.com" >
                         <img src = {BookSearch} alt ="Book Search App"></img>
