@@ -1,4 +1,11 @@
 import React from 'react';
+import BookSearch from '../../assets/booksearch.png'
+import CodeQuiz from '../../assets/codequiz.png'
+import Dashboard from '../../assets/dashboard.png'
+import Database from '../../assets/database.png'
+import Planner from '../../assets/planner.png'
+import Generator from '../../assets/generator.png'
+
 
 export default function Portfolio() {
     return (

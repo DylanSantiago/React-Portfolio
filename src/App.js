@@ -20,15 +20,15 @@ export default function App() {
               element={<Me />}
             />
              <Route
-              path="/"
+              path="/portfolio"
               element={<Portfolio />}
             />
              <Route
-              path="/"
+              path="/resume"
               element={<Resume />}
             />
              <Route
-              path="/"
+              path="/contact"
               element={<Contact />}
             />
           </Routes>
