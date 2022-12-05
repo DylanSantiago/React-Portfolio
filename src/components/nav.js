@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Navbar({ currentPage, handlePageChange }) {
     return (
-      <nav className="">
+      <nav>
         <ul className="nav nav tabs">
           <li className="nav-item">
             <a href = "#home"

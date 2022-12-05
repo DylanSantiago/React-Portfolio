@@ -3,10 +3,10 @@ import photo from '../../assets/me.png';
 
 export default function Me() {
     return (
-        <div className=''>
+        <div>
             <h1>About Me</h1>
             
-            <p> Hello Page Viewer! My Name is Dylan Santiago and I'm a 23 year old aspiring Full Stack Developer.
+            <p> Hello Page Viewer! My Name is Dylan Santiago and I'm a 24 year old aspiring Full Stack Developer.
             
             I'm new to coding, and I'm loving everything I'm learning. I'm facing every challenge head on and embracing the difficult 
             
