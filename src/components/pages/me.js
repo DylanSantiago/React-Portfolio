@@ -1,5 +1,5 @@
 import React from 'react';
-import Me from 'me';
+import photo from '../../assets/me.png';
 
 export default function Me() {
     return (
@@ -15,7 +15,7 @@ export default function Me() {
             in the real world. I enjoy music festivals, playing sports, and spending time with friends and family.
            
            </p>
-           <img src = {Me} alt ="Me in front of the Hudson River"></img>
+           <img src = {photo} alt ="Me in front of the Hudson River"></img>
         </div>
     )
 }

@@ -19,15 +19,15 @@ export default function Resume() {
             <h1>School History</h1>
                 <div>
                     <h2>June 2022 - December 2022</h2>
-                        <h4>Rutgers Coding Bootcamp</h4>
+                        <p>Rutgers Coding Bootcamp</p>
                 </div>
                 <div>
                     <h2>September 2016 - May 2018</h2>
-                        <h4>Associates Degree in General Studies, Bergen Community College</h4>
+                        <p>Associates Degree in Poli Sci, Bergen Community College</p>
                 </div>
                 <div>
                     <h2>September 2012 - June 2016</h2>
-                        <h4>High School Degree, Garfield High School</h4>
+                        <p>High School Degree, Garfield High School</p>
                 </div>
         </div>
     )

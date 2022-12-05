@@ -5,6 +5,7 @@ import Navbar from './components/nav';
 import Contact from './components/pages/contact';
 import Me from './components/pages/me';
 import React, { useState } from 'react';
+
 export default function App() {
   const [currentPage, setCurrentPage] = useState('Home');
   const renderPage = () => {
