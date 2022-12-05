@@ -11,11 +11,29 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 export default function App() {
   return (
     <Router>
-      <Nav />
-      <Me />
-      <Portfolio />
-      <Resume />
-      <Contact />
+      <div>
+        <Navbar />
+        <div>
+          <Routes>
+            <Route
+              path="/"
+              element={<Me />}
+            />
+             <Route
+              path="/"
+              element={<Portfolio />}
+            />
+             <Route
+              path="/"
+              element={<Resume />}
+            />
+             <Route
+              path="/"
+              element={<Contact />}
+            />
+          </Routes>
+        </div>
+      </div>
     </Router>
   )
 }
