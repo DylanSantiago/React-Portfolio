@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.8da76f36.css",
+    "main.js": "/React-Portfolio/static/js/main.b8da15db.js",
+    "static/media/me.png": "/React-Portfolio/static/media/me.696cffb52123c88ddf77.png",
+    "static/media/booksearch.png": "/React-Portfolio/static/media/booksearch.33a11754d68afc36d504.png",
+    "static/media/database.png": "/React-Portfolio/static/media/database.9182788d55ed43e6e2d0.png",
+    "static/media/dashboard.png": "/React-Portfolio/static/media/dashboard.eac8b9c17c0082a300c1.png",
+    "static/media/planner.png": "/React-Portfolio/static/media/planner.a404a226e9a05c150388.png",
+    "static/media/generator.png": "/React-Portfolio/static/media/generator.02cc2fe54bb0589cb64d.png",
+    "static/media/codequiz.png": "/React-Portfolio/static/media/codequiz.7b5796ca80037e63d7bb.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.8da76f36.css.map": "/React-Portfolio/static/css/main.8da76f36.css.map",
+    "main.b8da15db.js.map": "/React-Portfolio/static/js/main.b8da15db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8da76f36.css",
+    "static/js/main.b8da15db.js"
+  ]
+}
