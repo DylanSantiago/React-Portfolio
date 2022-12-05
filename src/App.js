@@ -4,6 +4,7 @@ import Resume from './components/pages/resume';
 import Navbar from './components/nav';
 import Contact from './components/pages/contact';
 import Me from './components/pages/me';
+import Footer from './components/footer'
 import React, { useState } from 'react';
 
 export default function App() {
@@ -25,6 +26,7 @@ export default function App() {
     <div>
     <Navbar currentPage={currentPage} handlePageChange={handlePageChange} />
     {renderPage()}
+    <Footer />
   </div>
   )
 }

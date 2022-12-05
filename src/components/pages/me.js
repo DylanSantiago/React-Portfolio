@@ -3,7 +3,7 @@ import photo from '../../assets/me.png';
 
 export default function Me() {
     return (
-        <div className='box'>
+        <div className=''>
             <h1>About Me</h1>
             
             <p> Hello Page Viewer! My Name is Dylan Santiago and I'm a 23 year old aspiring Full Stack Developer.
@@ -15,7 +15,7 @@ export default function Me() {
             in the real world. I enjoy music festivals, playing sports, and spending time with friends and family.
            
            </p>
-           <img src = {photo} alt ="Me in front of the Hudson River"></img>
+           <img src = {photo} alt ="Me in front of the Hudson River" className='center'></img>
         </div>
     )
 }

@@ -11,40 +11,40 @@ export default function Portfolio() {
     return (
         <div>
             <h1>My Portfolio</h1>
-            <section className='box'>
+            <section className=''>
                 <h1>MERN Book Search</h1>
                     <a href="https://dylans-book-search-app.herokuapp.com" >
-                        <img src = {BookSearch} alt ="Book Search App"></img>
+                        <img src = {BookSearch} alt ="Book Search App" className='center'></img>
                     </a>
             </section>
             <section>
                 <h1>Code Quiz</h1>
                     <a href="https://dylansantiago.github.io/Code-Quiz/" >
-                        <img src = {CodeQuiz} alt ="Code Quiz"></img>
+                        <img src = {CodeQuiz} alt ="Code Quiz" className='center'></img>
                     </a>
             </section>
             <section>
                 <h1>Daily Planner</h1>
                     <a href="https://dylansantiago.github.io/Work-Day-Planner/" >
-                        <img src = {Planner} alt ="Work Day Planner"></img>
+                        <img src = {Planner} alt ="Work Day Planner" className='center'></img>
                     </a>
             </section>
             <section>
                 <h1>Company Dashboard</h1>
                     <a href="https://github.com/DylanSantiago/Company-Contact-Dashboard" >
-                        <img src = {Dashboard} alt ="Company Contact Dashboard"></img>
+                        <img src = {Dashboard} alt ="Company Contact Dashboard" className='center'></img>
                     </a>
             </section>
             <section>
                 <h1>Password Generator</h1>
                     <a href="https://dylansantiago.github.io/Password-Generator/" >
-                        <img src = {Generator} alt ="Password Generator"></img>
+                        <img src = {Generator} alt ="Password Generator" className='center'></img>
                     </a>
             </section>
             <section>
                 <h1>Employee Database</h1>
                     <a href="https://github.com/DylanSantiago/Employee-Tracker-Database" >
-                        <img src = {Database} alt ="Employee Database"></img>
+                        <img src = {Database} alt ="Employee Database" className='center'></img>
                     </a>
             </section>
            
